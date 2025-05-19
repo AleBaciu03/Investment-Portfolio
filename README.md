@@ -23,5 +23,7 @@ Here is a sample simulation of the portfolio performance:
    ```bash
    git clone https://github.com/your-username/investment-portfolio.git
 
-   
-
+## Author
+Raoul Alessandro Baciu
+Bachelor's student in Business Administration in Ca' Foscari
+[Linkedin](www.linkedin.com/in/raoul-alessandro-baciu-12004b236)
