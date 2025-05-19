@@ -16,7 +16,7 @@ This is a simple Python script to simulate an investment portfolio and visualize
 ## Example output
 Here is a sample simulation of the portfolio performance:
 
-![Portfolio Simulation](portfolio_plot.png)
+![Portfolio Simulation](portfolio.png)
 
 ## How to run
 1. Clone the repository:
