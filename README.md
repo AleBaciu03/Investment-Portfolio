@@ -13,9 +13,15 @@ This is a simple Python script to simulate an investment portfolio and visualize
 - pandas
 - matplotlib.pyplot
 
+## Example output
+Here is a sample simulation of the portfolio performance:
+
+![Portfolio Simulation](portfolio_plot.png)
+
 ## How to run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tuo-username/investment-portfolio.git
+   git clone https://github.com/your-username/investment-portfolio.git
+
    
 
