@@ -18,11 +18,6 @@ Here is a sample simulation of the portfolio performance:
 
 ![Portfolio Simulation](portfolio.png)
 
-## How to run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/investment-portfolio.git
-
 ## Author
 Raoul Alessandro Baciu
 Bachelor's student in Business Administration in Ca' Foscari
